@@ -13,7 +13,7 @@
 
     
 
-[生活的点点滴滴](coding/PythonNote.md)
+[生活的点点滴滴]()
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
