@@ -2,10 +2,10 @@
 
 [学习笔记]()
 
-  * [英语笔记](english/english-formula.md)
-  * [统计学笔记](english/Phonetic-Phonics.md)
+  * [英语笔记](english/英语笔记.md)
+  * [统计学笔记](english/统计学笔记.md)
 - - - -
-  *   [理财知识 ](english/stress.md)
+  *   [理财知识 ](english/理财知识.md)
 
 [旅行]()
 
