@@ -11,9 +11,7 @@
 
   * [意大利、梵蒂冈、瑞士（2019）](math/levy_processes.md)
 
-    
-    
-    [生活的点点滴滴](coding/PythonNote.md)
+[生活的点点滴滴](coding/PythonNote.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
