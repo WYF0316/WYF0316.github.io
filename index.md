@@ -2,7 +2,7 @@
 
 欢迎来到吴寅峰的茶屋做客！
 
-<img src="images/1.jpg" style="zoom:50%;" /> 
+<img src="images/1.jpg" style="zoom: 25%;" /> 
 
 ### 我是谁，这里是哪里
 
