@@ -7,9 +7,9 @@
 - - - -
   *   [理财知识 ](english/理财知识.md)
 
-[旅行]()
+[在南大]()
 
-  * [意大利、梵蒂冈、瑞士（2019）](math/levy_processes.md)
+  * [南大一瞥](math/levy_processes.md)
 
     
 
